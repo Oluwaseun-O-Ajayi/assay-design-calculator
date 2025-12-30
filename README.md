@@ -506,8 +506,8 @@ If you use this toolkit in your research:
 
 ## 📚 References
 
-- Zhang, J.H., Chung, T.D., & Oldenburg, K.R. (1999). Z'-factor: An indicator of high-throughput assay quality. *Journal of Biomolecular Screening*, 4(2), 67-73.
-- Iversen, P.W., et al. (2012). HTS Assay Validation. In *Assay Guidance Manual*. Eli Lilly & Company and NCATS.
+- Zhang, J. H.; Chung, T. D.; Oldenburg, K. R. A Simple Statistical Parameter for Use in Evaluation and Validation of High Throughput Screening Assays. J. Biomol. Screen. 1999, 4 (2), 67–73. https://doi.org/10.1177/108705719900400206
+- Iversen, P. W.; Beck, B.; Chen, Y. F.; Dere, W.; Devanarayan, V.; Eastwood, B. J.; Fairbrother, W. J.; Brimacombe, K.; Gubernator, K.; Hanna, D.; et al. HTS Assay Validation. In Assay Guidance Manual; Markossian, S., Grossman, A., Baskir, H., Eds.; Eli Lilly & Company and the National Center for Advancing Translational Sciences: Bethesda, MD, 2004–. Updated 2012 Oct 1. https://www.ncbi.nlm.nih.gov/books/NBK83783/
 - FDA Guidance for Industry: Bioanalytical Method Validation (2018)
 
 ---
